@@ -1,3 +1,3 @@
-# brain-tumor-fixed-pint-filter
+# brain-tumor-fixed-point-filter
 
-Reommended for Google Collab
+Recommended for Google Collab
